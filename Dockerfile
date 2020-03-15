@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-runner:latest
+FROM gitlab/gitlab-runner:alpine
