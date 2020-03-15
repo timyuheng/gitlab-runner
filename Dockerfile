@@ -1,1 +1,1 @@
-FROM gitlab/gitlab-runner:v11.1.0
+FROM gitlab/gitlab-runner:latest
